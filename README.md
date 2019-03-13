@@ -1,2 +1,2 @@
 # microverseTest
-collaborating project
+collaborating project for remote pair programming
